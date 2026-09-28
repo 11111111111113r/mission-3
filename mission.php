@@ -17,4 +17,3 @@ usleep(500000);
 // 担当B: executeEmergencySurfacing("", "BALLAST_PURGE");
 executeEmergencySurfacing("VALVE_OPEN", "");
 // ==========================================
- 
